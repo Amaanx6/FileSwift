@@ -4,7 +4,7 @@ FileSwift is a versatile file management tool designed to handle a wide range of
 
 ## Features
 
-- **View and Edit PDFs**: Seamlessly open and edit PDF documents.
+- **View and Edit PDF's**: Seamlessly open and edit PDF documents.
 - **PDF to Image Conversion**: Convert PDFs to PNG, JPG, and other image formats.
 - **Image to PDF Conversion**: Merge multiple images into a single PDF.
 - **Merge PDFs**: Combine multiple PDFs into a single file.
