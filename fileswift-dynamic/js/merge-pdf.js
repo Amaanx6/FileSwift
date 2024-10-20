@@ -6,7 +6,7 @@ $(document).ready(function() {
     const mergeButton = $('#merge-button');
     let selectedFiles = [];
 
-    // Prevent default drag behaviors
+   
     ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
         dropArea.on(eventName, preventDefaults);
         document.body.addEventListener(eventName, preventDefaults);
